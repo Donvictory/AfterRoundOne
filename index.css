@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+    background-color: #f4f4f4;
+    height: 80vh;
+    margin-left: 20px;
+}
+img{
+   width: 60px;
+   height: 60px;
+   border-radius: 50px;
+   
+}
+.move{
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    border: 5px solid white;
+}
+.Add{
+    padding: 10px 20px;
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.Add1{
+     background-color: black;
+    display: inline-block;
+     color: white;
+}
+.calc{
+     padding: 10px 20px;
+    margin-left:20px ;
+    font-weight: bold;
+    font-size: 20px;
+   
+}
+.calc1{
+     background-color: black;
+    display: inline-block;
+     color: white;
+}
+
+.result{
+    font-weight: bold;
+    font-size: 20px;
+}
+.score{
+    font-weight: bold;
+    font-size: 25px;
+}
+.Play-btn{
+    padding: 10px 20px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+#Gamenumber{
+    padding: 10px ;
+}
